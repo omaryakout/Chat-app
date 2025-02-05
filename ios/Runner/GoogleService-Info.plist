@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDiwLpvwDIWNJ_ua1V7ikV8tsut_XApDs4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>280280376704</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.omarChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>omar-chat-app-4db21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>omar-chat-app-4db21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:280280376704:ios:5d9c6d5bc70e06456ecd65</string>
+</dict>
+</plist>

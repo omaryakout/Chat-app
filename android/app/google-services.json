@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280280376704",
+    "project_id": "omar-chat-app-4db21",
+    "storage_bucket": "omar-chat-app-4db21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280280376704:android:8cf420b6f804e2906ecd65",
+        "android_client_info": {
+          "package_name": "com.example.omar_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChiDEIiO1Oz7_3e4J0V1D08vX8WOjPRB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
